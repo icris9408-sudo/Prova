@@ -1,1 +1,1 @@
-                                                    FOLDER FOR PYTHON TEST
+                                         Folder of Python projects done during Data Analyst's Course
